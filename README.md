@@ -1,9 +1,9 @@
 # EXPERIMENT-NO--04-Distance measurement using Ultrasonic sensor
  ###  DATE: 
 
-###  NAME: 
-###  ROLL NO :
-###  DEPARTMENT:
+###  NAME: Mothy krishnan R D
+###  ROLL NO :212221080051
+###  DEPARTMENT:MECHANICAL
 ## AIM: 
 To interface an ultrasonic pair and measure the distance in centimeters , calculate the error
  
@@ -44,6 +44,8 @@ speed of sound in the air at 20ºC (68ºF) = 343m/s
 ![image](https://user-images.githubusercontent.com/36288975/166430594-5adb4ca9-5a42-4781-a7e6-7236b3766a85.png)
 
 
+### SCHEMATIC DIGRAM:
+              
 
 ### PROCEDURE:
 1.	Connect the circuit as per the circuit diagram 
